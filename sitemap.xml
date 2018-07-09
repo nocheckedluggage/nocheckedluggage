@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/my-second-post/</loc>
+    <loc>https://nocheckedluggage.github.io/posts/my-second-post/</loc>
     <lastmod>2018-07-09T13:46:55+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://nocheckedluggage.github.io/posts/my-first-post/</loc>
     <lastmod>2018-07-09T13:30:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/blog/</loc>
+    <loc>https://nocheckedluggage.github.io/tags/blog/</loc>
     <lastmod>2018-07-09T13:46:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://nocheckedluggage.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://nocheckedluggage.github.io/</loc>
     <lastmod>2018-07-09T13:46:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://nocheckedluggage.github.io/posts/</loc>
     <lastmod>2018-07-09T13:46:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/story/</loc>
+    <loc>https://nocheckedluggage.github.io/tags/story/</loc>
     <lastmod>2018-07-09T13:46:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://nocheckedluggage.github.io/tags/</loc>
     <lastmod>2018-07-09T13:46:55+08:00</lastmod>
     <priority>0</priority>
   </url>
